@@ -45,7 +45,7 @@ public:
         return sum;
     }
     
-    Solution 2: 0(n)
+//     Solution 2: 0(n)
       
         int sumOfUnique(vector<int>& A) {
         unordered_map<int,int> m;
